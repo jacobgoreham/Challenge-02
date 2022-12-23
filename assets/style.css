@@ -146,7 +146,7 @@ div {
 
 #textbox p {
   position: relative;
-  border: 2px solid white;
+  border: 1px solid darkgray;
   margin-top: 325px;
   left: 225px;
   padding: 10px;
@@ -156,7 +156,7 @@ div {
 .textbox p {
   z-index: 1;
   position: relative;
-  border: 2px solid white;
+  border: 1px solid darkgray;
   padding: 10px;
   left: 125px;
   margin-top: 125px;
@@ -167,7 +167,7 @@ div {
   flex: 1 0 0;
   max-width: 400px;
   height: 200px;
-  border: 1px white solid;
+  border: 1px darkgray solid;
 }
 
 .images img:hover {
